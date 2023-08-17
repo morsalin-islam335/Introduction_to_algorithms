@@ -1,0 +1,10 @@
+Height of 1 is :1
+Height of 2 is :1
+Height of 3 is :1
+Height of 4 is :1
+Height of 5 is :0
+Height of 6 is :1
+Height of 7 is :0
+Height of 8 is :0
+Height of 9 is :0
+Height of 10 is :0
