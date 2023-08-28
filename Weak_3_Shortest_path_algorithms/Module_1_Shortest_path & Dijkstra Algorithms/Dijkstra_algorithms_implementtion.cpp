@@ -10,7 +10,7 @@ const int INF = 1e9;
 vector<int>dist(N,INF); // sobaika infinite dia initialize kora dewa hoilo
 
 
-typedef pair<int,int>pii;// pair data type er gaygay eta use korla pari data type er kaj korba
+typedef pair<int,int>pii;// pair data type er gaygay eta use korla pair data type er kaj korba
 vector<pii>adj[N]; // adjacency list er pair
 
 bool visited[N];  // sobai initially false dea dewa aca
