@@ -19,7 +19,7 @@ void make_proper()
     }
 }
 
-void floyd_warshall()
+void floydWarshell()
 {
     for(int k = 1; k<= numberOfNode; k++)
     {
@@ -58,7 +58,7 @@ int main()
 
     make_proper();  // sobgulor nij theka nij distance 0 kora
 
-    floyd_warshall();
+    floydWarshell();
     print_matrix();
 
     return 0;
